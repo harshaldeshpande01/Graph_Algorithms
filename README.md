@@ -1,1 +1,2 @@
-# Graph_Algorithms
+Implemented graph algortihms in C++
+Language : C
